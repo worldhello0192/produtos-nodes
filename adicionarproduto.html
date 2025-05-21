@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adicionar Novo Produto</title>
+</head>
+
+<body>
+    <a href="http://localhost:3000">Voltar</a>
+
+    <h1>Adicionar novo produto</h1>
+
+    <form action="http://localhost:3000/adicionar-produto" method="POST">
+        <label for="nome">Nome do Produto:</label><br>
+        <input type="text" id="nome" name="nome" required><br><br>
+
+        <label for="desc">desc:</label><br>
+        <input type="text" id="desc" name="desc"><br><br>
+
+        <label for="validade">validade:</label><br>
+        <textarea id="validade" name="validade" required></textarea><br><br>
+
+        <button type="submit">Publicar</button><br>
+    </form>
+</body>
+
+</html>

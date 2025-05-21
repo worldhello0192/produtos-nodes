@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "Salada",
+    "desc": "Legume",
+    "url_validade": "25/05/2025"
+  },
+  {
+    "nome": "Leite",
+    "desc": "Leite integral de alta qualidade, pasteurizado e homogeneizado, com 3% de gorduraegral",
+    "url_validade": "01/08/2025"
+  },
+  {
+    "nome": "café",
+    "desc": "Café com aroma intenso e sabor marcante",
+    "url_validade": "01/03/2026"
+  },
+  {
+    "nome": "Macarrão",
+    "desc": "Massa de sêmola de trigo duro",
+    "url_validade": "20/07/2025"
+  },
+  {
+    "nome": "Feijão Carioca",
+    "desc": "Feijão carioca selecionado, de grãos claros e cozimento rápido",
+    "url_validade": "10/09/2026"
+  },
+  {
+    "nome": "Azeite Extra Virgem",
+    "desc": "Azeite de oliva extra virgem de origem portuguesa, com acidez máxima de 0,5%",
+    "url_validade": "25/11/2025"
+  },
+  {
+    "nome": "Bolacha",
+    "desc": "Bolacha crocante e levemente salgada",
+    "url_validade": "15/02/2026"
+  }
+]
